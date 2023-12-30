@@ -2,10 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>HData Mining</title>
-</head>
+
 <body>
 
   <h1>Data Mining with Python</h1>
