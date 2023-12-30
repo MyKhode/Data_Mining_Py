@@ -76,7 +76,7 @@
 
   <h2>Credits</h2>
   <ul>
-    <li>Developed by <a href="link-to-your-profile">Your Name</a></li>
+    <li>Developed by <a href="https://github.com/soytet">SOY TET</a></li>
     <li>KhmerNLP Library: <a href="https://github.com/KhmerNLP/khmer-nltk">Link</a></li>
   </ul>
 
